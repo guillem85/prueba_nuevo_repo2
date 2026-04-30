@@ -11,6 +11,9 @@ más texto, lorem ipsum
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 ## subtitulo 2
 algo de texto
 ### una sección más
