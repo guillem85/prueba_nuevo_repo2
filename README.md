@@ -26,3 +26,7 @@ algo de texto, lorem ipsum
 
 ## subtitulo
 algo de texto que explica algo muy interesante
+
+texto plano
+---
+texto plano
