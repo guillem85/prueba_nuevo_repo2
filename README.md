@@ -28,5 +28,6 @@ algo de texto, lorem ipsum
 algo de texto que explica algo muy interesante
 
 texto plano
+
 ---
 texto plano
