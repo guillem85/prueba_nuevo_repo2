@@ -17,3 +17,12 @@ más texto, lorem ipsum
 ## subtitulo 2
 algo de texto
 ### una sección más
+
+
+---
+
+# Titulo2
+algo de texto, lorem ipsum
+
+## subtitulo
+algo de texto que explica algo muy interesante
