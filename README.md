@@ -22,6 +22,7 @@ algo de texto
 
 
 por ejemplo otro texto
+
 ---
 
 # Titulo2
